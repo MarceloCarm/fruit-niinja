@@ -1,1 +1,1 @@
-# fruit-niinja
+# fruit-ninja
